@@ -1,0 +1,10 @@
+Display Name                                       Version    Date                  
+------------                                       -------    ----                  
+Mobile Device                                      1.0.0.0    02/09/2023, 20:43:56  
+Command Line Tools for Xcode                       12.4       02/09/2023, 00:13:57  
+Safari                                             15.6.1     02/08/2023, 23:29:13  
+macOS Catalina Security Update 2022-005            10.15.7    02/08/2023, 23:27:03  
+XProtectPayloads                                   89         02/08/2023, 23:18:01  
+MRTConfigData                                      1.93       02/08/2023, 23:17:30  
+Gatekeeper Configuration Data                      181        02/08/2023, 23:17:28  
+XProtectPlistConfigData                            2165       02/08/2023, 23:17:13  
