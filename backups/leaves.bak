@@ -1,0 +1,42 @@
+__ Brew dump __
+-- Dumping brew packages to file 2023-02-18 @15-12-05
+gettext
+
+git
+├── gettext
+└── pcre2
+
+pcre2
+
+-- versions
+gettext 0.21.1
+git 2.39.1
+pcre2 10.42
+-- taps
+homebrew/cask
+homebrew/core
+-- everything below this can be uninstalled or installed -- 
+git
+__ end dump __
+
+__ Brew dump __
+-- Dumping brew packages to file 2023-02-18 @15-12-50
+gettext
+
+git
+├── gettext
+└── pcre2
+
+pcre2
+
+-- versions
+gettext 0.21.1
+git 2.39.1
+pcre2 10.42
+-- taps
+homebrew/cask
+homebrew/core
+-- everything below this can be uninstalled or installed -- 
+git
+__ end dump __
+

@@ -3,10 +3,11 @@
 # Create the project directory
 # check if current directory is empty
 
-if [ "$(ls -A .)" ]; then
-    echo "- Current directory is not empty - swift init needs a new directory."
-    exit 1
-fi
+# Sanity check not needed as we are creating a new directory
+# if [ "$(ls -A .)" ]; then
+#     echo "- Current directory is not empty - swift init needs a new directory."
+#     exit 1
+# fi
 
 
 project_name=$1
@@ -58,3 +59,7 @@ swift build
 
 # Run the project
 swift run
+
+echo "swift build" > build.sh
+echo "swift run" > build.sh
+chmod +x build.sh
